@@ -1,0 +1,6 @@
+1. npm i -g typescript
+2. tsc --init
+
+
+
+3. ctrl+shift+b ===> build/watch
